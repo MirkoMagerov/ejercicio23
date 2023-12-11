@@ -50,14 +50,20 @@
 
 ![Alt text](image-8.png)
 
-- Una vez terminada la primera tarea, hacemos el commit y push para crear una pull request. Después, en el github podemos aceptar la pull request una vez compruebe que todo está correcto y después se nos habrá actualizado el projects automáticamente si hemos indicado 'closes #X' en el mensaje del commit donde 'x' es el número de la tarea acabada:
-
-![Alt text](image-9.png)
+- Una vez terminada la primera tarea, hacemos el commit y push para crear una pull request. Después, en el github podemos aceptar la pull request una vez compruebe que todo está correcto y después se nos habrá actualizado el projects automáticamente si hemos indicado 'closes #X' en el mensaje del commit donde 'x' es el número de la tarea acabada.
 
 - Y creamos una nueva branch para la siguiente tarea:
 
+![Alt text](image-11.png)
 
-
-### Primera tarea: Métodos para calcular cada área con sobrecarga
+### Segunda tarea: Métodos para calcular cada área con sobrecarga
 - Este es el código de los métodos con sobrecarga para cada figura:
+
+![Alt text](image-9.png)
+
+- Este es el mensaje del commit para cerrar la segunda tarea del project:
+
+![Alt text](image-10.png)
+
+- Y después verificamos el pull request que se crea al hacer el push después del commit:
 
