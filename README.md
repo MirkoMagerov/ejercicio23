@@ -49,3 +49,15 @@
 - Asi quedaría el código del programa principal sólo con el código del método Main:
 
 ![Alt text](image-8.png)
+
+- Una vez terminada la primera tarea, hacemos el commit y push para crear una pull request. Después, en el github podemos aceptar la pull request una vez compruebe que todo está correcto y después se nos habrá actualizado el projects automáticamente si hemos indicado 'closes #X' en el mensaje del commit donde 'x' es el número de la tarea acabada:
+
+![Alt text](image-9.png)
+
+- Y creamos una nueva branch para la siguiente tarea:
+
+
+
+### Primera tarea: Métodos para calcular cada área con sobrecarga
+- Este es el código de los métodos con sobrecarga para cada figura:
+
