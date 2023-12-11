@@ -67,3 +67,9 @@
 
 - Y después verificamos el pull request que se crea al hacer el push después del commit:
 
+![Alt text](image-12.png)
+
+- También se nos habrá actualizado la tarea del projects automáticamente:
+
+![Alt text](image-13.png)
+
