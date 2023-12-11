@@ -73,3 +73,14 @@
 
 ![Alt text](image-13.png)
 
+- Y asi sucesivamente con todos las tareas relativas al código principal del programa.
+
+## UNIT TESTING
+
+### Script del unit testing con métodos del script principal
+
+#### Test del cuadrado y del rectángulo:
+![Alt text](image-14.png)
+
+#### Test del círculo y del pentágono:
+![Alt text](image-15.png)
