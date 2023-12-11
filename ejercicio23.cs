@@ -61,5 +61,11 @@ namespace Proyecto
         {
             return piNumber * Math.Pow(radius, elevateToNumber);
         }
+
+        // Pentágono
+        public static double AreaCalculator(double side, double numSides, double apotem, int divideToNumber)
+        {
+            return ((side * numSides) * apotem) / divideToNumber;
+        }
     }
 }
