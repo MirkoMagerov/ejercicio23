@@ -73,3 +73,8 @@
 
 ![Alt text](image-13.png)
 
+### Tercera tarea: Llamar a los métodos de cálculo en el código Main del programa
+- Este es el código acabado del programa donde se le llama a cada método:
+
+![Alt text](image-14.png)
+
