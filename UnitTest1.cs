@@ -25,7 +25,7 @@ namespace ValidateTest
         {
             // Arrange
             bool result;
-            int expected = 20, side = 5, height = 4;
+            double expected = 20, side = 5, height = 4;
 
             // Act
             result = ConsoleApp.AreaCalculator(side, height) == expected;

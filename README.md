@@ -85,4 +85,6 @@
 #### Test del círculo y del pentágono:
 ![Alt text](images/image-15.png)
 
-- Y con esto ya tendríamos el ejercicio acabado.
+- Y con esto ya tendríamos el ejercicio acabado y los unit test funcionando de manera correcta:
+
+![Alt text](images/image-16.PNG)
